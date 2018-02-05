@@ -1,0 +1,24 @@
+# Compiled source
+*.pyc
+
+
+# vim temp files
+.*.swp
+
+# backup folder
+bak/
+tmp/
+*.o
+
+
+.svn/
+
+MPL2.txt
+
+
+bin/*
+.synctocasio.sh
+
+data/dssp
+data/pdb_dcp
+lib/*

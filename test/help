@@ -1,0 +1,34 @@
+ARGC: 1
+ARGIND: 0
+ARGV: array, 1 elements
+BINMODE: 0
+CONVFMT: "%.6g"
+ERRNO: ""
+FIELDWIDTHS: ""
+FILENAME: "-"
+FNR: 1
+FPAT: "[^[:space:]]+"
+FS: " "
+IGNORECASE: 0
+LINT: 0
+NF: 1
+NR: 1
+OFMT: "%.6g"
+OFS: " "
+ORS: "\n"
+RLENGTH: -1
+RS: "\n"
+RSTART: 0
+RT: "\n"
+SUBSEP: "\034"
+TEXTDOMAIN: "messages"
+cntUsedARGC: 0
+e: untyped variable
+firstchar: "1"
+g: untyped variable
+i: 1
+idType: "0"
+idTypeList: ""
+isDebug: "false"
+isExit: untyped variable
+lengthID: 5
